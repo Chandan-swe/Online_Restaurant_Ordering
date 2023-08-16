@@ -1,0 +1,27 @@
+Name:MOHSIN
+Table no:2
+your selected item is:vegetable samosa 30/-
+your selected item is:Hilisha Fish with Mustard 250/-
+your selected item is:Chicken Roast 150/-
+your selected item is:Chicken Biriyani 130/-
+your selected item is:Soft drinks 70/-
+your selected item is:vegetable samosa 30/-
+your selected item is:Hilisha Fish with Mustard 250/-
+your selected item is:Chicken Roast 150/-
+your selected item is:Chicken Biriyani 130/-
+your selected item is:Soft drinks 70/-
+totalcost:790
+Name:rony
+Table no:21
+Name:rony
+Table no:21
+your selected item is:Chicken roll 60/-
+your selected item is:Chicken roll 60/-
+your selected item is:Chicken roll 60/-
+your selected item is:Chicken roll 60/-
+totalcost:240
+your selected item is:Meat samosa 40/-
+your selected item is:Meat samosa 40/-
+your selected item is:Meat samosa 40/-
+your selected item is:Meat samosa 40/-
+totalcost:80
